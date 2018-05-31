@@ -1,3 +1,15 @@
-body{
-	background-color:#000;
+body {
+	background-color: #000;
+}
+
+span {
+	color: #fff;
+	text-align: center;
+	font-size: 60px;
+}
+
+.hotDate {
+	position: fixed;
+    left: 50%;
+    top: 50%;
 }
