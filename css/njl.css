@@ -6,12 +6,16 @@ body {
 span {
 	color: #fff;
 	text-align: center;
-	font-size: 20px;
+	font-size: 25px;
 }
 
 .hotDate {
 }
-
+/* #title{
+	color:#fff;
+	font-size: 25px;
+	text-align: center;
+} */
 .heart {
 	margin: 100px auto;
 	width: 100px;
